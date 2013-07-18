@@ -1,0 +1,23 @@
+{
+  "name": "Grunt Config",
+  "version": "0.0.0",
+  "description": "",
+  "main": "",
+  "repository": "",
+  "author": "Ilya Radchenko",
+  "license": "BSD",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "phantomjs": "~1.9.0",
+    "mocha": "~1.10",
+    "chai": "~1.6",
+    "grunt-minified": "0.0.6",
+    "grunt-mocha-test": "~0.4.0",
+    "mocha-phantomjs": "~3.0.0",
+    "grunt-mocha-phantomjs": "~0.2.8",
+    "grunt-docco": "https://github.com/knownasilya/grunt-docco/tarball/master",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-plato": "~0.2.1"
+  }
+}

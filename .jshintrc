@@ -1,0 +1,27 @@
+{
+  "curly": true,
+  "undef": false,
+  "immed": true,
+  "indent": 2,
+  "latedef": true,
+  "newcap": true,
+  "noempty": true,
+  "nonew": true,
+  "quotmark": true, 
+  "unused": true,
+  "laxbreak": true,
+  "maxdepth": 5,
+  "strict": false,
+  "globalstrict": true,
+  "globals": {
+    "module": true,
+    "Ember": true,
+    "DS": true,
+    "App": true,
+    "Util": true
+  },
+  "jquery": true,
+  "devel": true, 
+  "browser": true,
+  "onevar": true
+}
